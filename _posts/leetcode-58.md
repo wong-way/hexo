@@ -1,7 +1,6 @@
 ---
 title: leetcode_58
 date: 2017-07-09 22:22:07
-tags: leetcode
 categories: leetcode
 tags: 
 - leetcode
